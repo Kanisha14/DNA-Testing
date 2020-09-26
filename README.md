@@ -21,13 +21,13 @@ If the STR counts do not match exactly with any of the individuals in the CSV fi
 Your program should behave per the example below:
 
 $ python dna.py databases/large.csv sequences/5.txt
-Lavender
+- Lavender
 
 $ python dna.py
-Usage: python dna.py data.csv sequence.txt
+- Usage: python dna.py data.csv sequence.txt
 
 $ python dna.py data.csv
-Usage: python dna.py data.csv sequence.txt
+- Usage: python dna.py data.csv sequence.txt
 
 ## Background
 DNA, the carrier of genetic information in living things, has been used in criminal justice for decades. But how, exactly, does DNA profiling work? Given a sequence of DNA, how can forensic investigators identify to whom it belongs?
